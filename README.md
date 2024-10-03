@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kartik Hirapara</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartik0603" alt="kartik0603" /></a> </p>
 
 - 🌱 I’m currently learning **Node , React**
