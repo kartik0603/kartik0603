@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **Node , React**
+- 🌱 I’m currently learning **Node**
 
 - 📫 How to reach me **kartikhirapara800@gmail.com**
 
