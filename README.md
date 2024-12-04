@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kartik Hirapara</h1>
-<h3 align="center"> Full Stack Developer from India</h3>
+<h3 align="center"> Backend Developer from India</h3>
 
 
 
